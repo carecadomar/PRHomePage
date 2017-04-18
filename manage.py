@@ -2,6 +2,8 @@
 import os
 import sys
 
+#porque é que eu não leio a linha de teste?
+#será por ser o manage.py?
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "PRHomePage.settings")
     try:
